@@ -9,7 +9,6 @@ spec:
     providerKind: github
     repositories:
     - name: NethraNodeProj
-    - name: NethraProj-6
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
