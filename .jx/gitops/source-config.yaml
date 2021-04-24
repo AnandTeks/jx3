@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: NethraGoLan
     - name: NethraPro-8
     - name: Nethraproject-11
     scheduler: in-repo
