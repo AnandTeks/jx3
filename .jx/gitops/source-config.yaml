@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: NethraPro-8
     - name: NethraProj-6
     scheduler: in-repo
   slack:
