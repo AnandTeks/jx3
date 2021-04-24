@@ -8,9 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
-    - name: AngularPro-1
     - name: AngularPro-2
-    - name: NethraGoLan
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
