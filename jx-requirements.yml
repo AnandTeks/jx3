@@ -20,12 +20,12 @@ spec:
   - key: production
   ingress:
     domain: $172.17.0.4.nip.io
-    externalDNS: true
+    externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
       email: ""
-      enabled: true
+      enabled: false
       production: false
   repository: bucketrepo
   secretStorage: local
