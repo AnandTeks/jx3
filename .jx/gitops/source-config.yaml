@@ -11,6 +11,7 @@ spec:
     - name: NethraGoLan
     - name: NethraPro-8
     - name: Nethraproject-11
+    - name: golanproj-3
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
