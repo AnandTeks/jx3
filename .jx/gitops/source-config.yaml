@@ -10,6 +10,7 @@ spec:
     repositories:
     - name: GoLang-2
     - name: Golang-1
+    - name: NethraAndroidApp
     - name: NethraNode-1
     - name: NethraNode-3
     - name: jx3
