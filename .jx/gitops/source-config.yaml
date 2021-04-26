@@ -16,6 +16,7 @@ spec:
     - name: NethraSpringBoot
     - name: NethraSpringBoot1
     - name: jx3
+    - name: nethranode-02
     - name: springbootgradle
     scheduler: in-repo
   slack:
