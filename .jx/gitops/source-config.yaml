@@ -11,6 +11,7 @@ spec:
     - name: GoLang-2
     - name: Golang-1
     - name: NethraAndroidApp
+    - name: NethraNode-04
     - name: NethraNode-1
     - name: NethraNode-3
     - name: NethraSpringBoot
