@@ -10,6 +10,7 @@ spec:
     repositories:
     - name: Golang-1
     - name: NethraNode-1
+    - name: NethraNode-3
     - name: jx3
     scheduler: in-repo
   slack:
