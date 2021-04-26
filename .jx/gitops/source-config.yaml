@@ -11,6 +11,7 @@ spec:
     - name: AngularPro-2
     - name: NethraAngular-12
     - name: NethraNode
+    - name: NethraNode-1
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
