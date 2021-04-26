@@ -8,9 +8,6 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
-    - name: AngularPro-2
-    - name: NethraAngular-12
-    - name: NethraNode
     - name: NethraNode-1
     scheduler: in-repo
   slack:
