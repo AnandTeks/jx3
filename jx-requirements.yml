@@ -18,6 +18,13 @@ spec:
   - key: dev
   - key: staging
   - key: production
+  - gitKind: github
+    gitServer: https://github.com
+    key: jx3
+    owner: AnandTeks
+    promotionStrategy: Auto
+    remoteCluster: true
+    repository: jx3
   ingress:
     domain: 172.17.0.4.nip.io
     externalDNS: false
