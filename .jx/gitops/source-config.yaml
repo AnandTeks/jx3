@@ -8,7 +8,9 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: Golang-1
     - name: NethraNode-1
+    - name: jx3
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
