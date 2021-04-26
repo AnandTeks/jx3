@@ -10,9 +10,13 @@ spec:
     repositories:
     - name: GoLang-2
     - name: Golang-1
+    - name: NethraAndroidApp
     - name: NethraNode-1
     - name: NethraNode-3
+    - name: NethraSpringBoot
+    - name: NethraSpringBoot1
     - name: jx3
+    - name: springbootgradle
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
