@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: GoLang-2
     - name: Golang-1
     - name: NethraNode-1
     - name: jx3
